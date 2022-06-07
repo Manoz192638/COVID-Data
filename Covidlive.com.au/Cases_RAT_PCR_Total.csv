@@ -1,10 +1,10 @@
 ,STATE,RAT,PCR,TOTAL
-0,NSW,3295,2560,5855
-1,Victoria,6298,1990,8288
-2,Queensland,-,-,2872
-3,WA,4635,2014,6649
+0,NSW,4351,2034,6385
+1,Victoria,7059,2122,9181
+2,Queensland,-,-,-
+3,WA,-,-,-
 4,SA,-,-,-
-5,Tasmania,-,-,627
+5,Tasmania,-,-,-
 6,ACT,-,-,-
-7,NT,183,18,201
-8,Australia,14411,10081,24492
+7,NT,-,-,-
+8,Australia,11410,4156,15566
